@@ -1,22 +1,33 @@
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729"  />
+  <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-###
-
-<p align="center">Hello, I'm Abhijeet 👋 I'm a full-stack developer passionate about creating new things.</p>
+<br>
 
 ###
+### _<div align="center">Hi I'm Abhijeet 👋 I'm a full stack developer passionate about creating new things. </div>_
+###
 
-<p align="left">🎓 “It is never too late to be what you might have been.”<br>💪 Proficient in both front-end and back-end, bringing creative ideas to code.<br>🧠 I'm a quick learner and love to learn new technologies.<br>⚡ Besides programming, I love to workout, cooking, traveling ...</p>
+<br>
+
+<p align="left">
+🎓 “It is never too late to be what you might have been.” 
+<br>
+💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
+<br>
+🧠 I'm a quick learner and love to learn new technologies.
+<br>
+⚡ Besides programming, I love to workout, cooking, traveling ...
+</p>
+
+<br>
 
 ###
 
-<h3 align="left">💻 Tech Stacks & Tools💻</h3>
+<h2 align="left">💻 Tech Stacks & Tools 💻</h2>
 
 ###
-
-<div align="left">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -67,20 +78,20 @@
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijeetgurnule&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetgurnule&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/abhijeetgurnule/count.svg?"  />
 </div>
 
 ###
-
+<br>
 <img src="https://raw.githubusercontent.com/abhijeetgurnule/abhijeetgurnule/output/snake.svg" alt="Snake animation" />
 
 ###
